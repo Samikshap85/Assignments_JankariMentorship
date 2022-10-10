@@ -1,0 +1,22 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samikshap85/Assignments_JankariMentorship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samikshap85/Assignments_JankariMentorship/issues"
+  },
+  "homepage": "https://github.com/Samikshap85/Assignments_JankariMentorship#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
